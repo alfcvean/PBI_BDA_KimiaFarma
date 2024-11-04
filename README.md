@@ -1,1 +1,3 @@
 # PBI_BDA_KimiaFarma
+
+Program Project Based Internship Big Data Analytics Kimia Farma yang diselenggarakan oleh Rakamin Academy merupakan program pengembangan diri dan akselerasi karier yang diperuntukkan bagi mereka yang tertarik mendalami posisi Big Data Analytics di perusahaan Kimia Farma. Program ini memberikan akses pembelajaran dasar berupa Article Review dan video learning untuk memperkenalkan peserta dengan kompetensi dan keahlian yang harus dimiliki oleh Big Data Analytics di perusahaan Kimia Farma. Selain materi, akan ada pengujian atas hasil pembelajaran peserta berupa soal-soal Task setiap minggunya dan diakhiri dengan pembuatan tugas akhir yang akan menjadi portofolio peserta pada program ini.
